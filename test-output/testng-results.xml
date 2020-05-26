@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="EmployeesRestAPISuite" duration-ms="7939" started-at="2020-05-26T11:33:56Z" finished-at="2020-05-26T11:34:04Z">
+    <groups>
+    </groups>
+    <test name="EmployeesRestAPITest" duration-ms="7939" started-at="2020-05-26T11:33:56Z" finished-at="2020-05-26T11:34:04Z">
+      <class name="com.qa.apiTest.TC002_Post_Employee_Record">
+        <test-method status="PASS" signature="createEmployee()[pri:0, instance:com.qa.apiTest.TC002_Post_Employee_Record@14acaea5]" name="createEmployee" is-config="true" duration-ms="7833" started-at="2020-05-26T11:33:56Z" finished-at="2020-05-26T11:34:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createEmployee -->
+        <test-method status="PASS" signature="checkContentType()[pri:0, instance:com.qa.apiTest.TC002_Post_Employee_Record@14acaea5]" name="checkContentType" duration-ms="14" started-at="2020-05-26T11:34:04Z" finished-at="2020-05-26T11:34:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentType -->
+        <test-method status="PASS" signature="checkResposeBody()[pri:0, instance:com.qa.apiTest.TC002_Post_Employee_Record@14acaea5]" name="checkResposeBody" duration-ms="38" started-at="2020-05-26T11:34:04Z" finished-at="2020-05-26T11:34:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResposeBody -->
+        <test-method status="PASS" signature="checkStatusCode()[pri:0, instance:com.qa.apiTest.TC002_Post_Employee_Record@14acaea5]" name="checkStatusCode" duration-ms="1" started-at="2020-05-26T11:34:04Z" finished-at="2020-05-26T11:34:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCode -->
+        <test-method status="PASS" signature="checkcontentEncoding()[pri:0, instance:com.qa.apiTest.TC002_Post_Employee_Record@14acaea5]" name="checkcontentEncoding" duration-ms="1" started-at="2020-05-26T11:34:04Z" finished-at="2020-05-26T11:34:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcontentEncoding -->
+        <test-method status="PASS" signature="checkserverType()[pri:0, instance:com.qa.apiTest.TC002_Post_Employee_Record@14acaea5]" name="checkserverType" duration-ms="1" started-at="2020-05-26T11:34:04Z" finished-at="2020-05-26T11:34:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkserverType -->
+        <test-method status="PASS" signature="checkstatusLine()[pri:0, instance:com.qa.apiTest.TC002_Post_Employee_Record@14acaea5]" name="checkstatusLine" duration-ms="1" started-at="2020-05-26T11:34:04Z" finished-at="2020-05-26T11:34:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatusLine -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.apiTest.TC002_Post_Employee_Record@14acaea5]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-05-26T11:34:04Z" finished-at="2020-05-26T11:34:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.apiTest.TC002_Post_Employee_Record -->
+    </test> <!-- EmployeesRestAPITest -->
+  </suite> <!-- EmployeesRestAPISuite -->
+</testng-results>

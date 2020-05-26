@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="EmployeesRestAPISuite">
+
+	<test name="EmployeesRestAPITest">
+		<classes>
+			<class name="com.qa.apiTest.TC001_Get_All_Employees" />
+			<class name="com.qa.apiTest.TC002_Post_Employee_Record" />
+			
+			
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
